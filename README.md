@@ -1,4 +1,4 @@
-# GridMapforFREE
+# Grid Map for FREE
 Flexible and easy to use.
 It's possible to generate a Map by combination of parts.
 
