@@ -7,3 +7,6 @@ So you can check the collision, etc, who are considering the placement and opera
 
 パーツを組み合わせるだけで、 簡単にマップを生成することが出来ます
 コリジョン等の確認ができますので、キャラクターや車の配置や操作を検討されているかたは、ぜひご利用ください
+
+## License
+MIT
