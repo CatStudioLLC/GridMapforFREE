@@ -10,10 +10,9 @@ So you can check the collision, etc, who are considering the placement and opera
 
 # Changelog
 Version 1.1.0  
- Caution: We are changing the file hierarchy from this version.  
-          Please delete the old version and then import it.  
+ Caution: We are changing the file hierarchy from this version.Please delete the old version and then import it.  
  - Added Warp parts (warp)  
-  注意：今回からファイルの階層を変更しています。古いバージョンを消してからインポートしてください。  
+注意：今回からファイルの階層を変更しています。古いバージョンを消してからインポートしてください。  
  ・ワープパーツを追加しました(warp)
 
 Version 1.0.1  
