@@ -9,6 +9,12 @@ So you can check the collision, etc, who are considering the placement and opera
 コリジョン等の確認ができますので、キャラクターや車の配置や操作を検討されているかたは、ぜひご利用ください
 
 # Changelog
+Version 1.1.0.1  
+ -The manual has been updated.  
+ -Added PartsImage.  
+ ・マニュアルを更新しました  
+ ・PartsImageを追加しました  
+  
 Version 1.1.0  
 Caution: We are changing the file hierarchy from this version.Please delete the old version and then import it.  
  -Added Warp parts (warp)  
